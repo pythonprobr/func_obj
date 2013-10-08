@@ -4,6 +4,8 @@ Funções como objetos
 
 Exemplos para a palestra "Funções como objetos: closures, decoradores e APIs" apresentada na PythonBrasil 9 em 4/out/2013.
 
+Slides: https://speakerdeck.com/ramalho/funcoes-como-objetos-em-python
+
 Resumo da palestra
 ==================
 
